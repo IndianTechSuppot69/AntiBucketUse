@@ -1,0 +1,5 @@
+name: AntiBucketUse
+version: '${project.version}'
+main: me.indiantechsupport.antibucketuse.AntiBucketUse
+author: IndianTechSupport
+api-version: '1.20'
